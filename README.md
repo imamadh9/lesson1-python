@@ -1,6 +1,6 @@
 # Lesson1 - Hello World
 
-This is my first Python project while leraning programming.
+This is my first Python project while learning programming.
 
 ## What I learned
 
@@ -9,7 +9,7 @@ This is my first Python project while leraning programming.
 - Running Python programs
 - Using GitHub
 
-## How tp Run
+## How to Run
 
 python main.py
 
